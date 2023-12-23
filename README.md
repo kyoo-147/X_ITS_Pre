@@ -13,4 +13,4 @@ Reqs: Ubuntu 20.4
 `pip install opencv-python==4.8.1`
 
 Usage:
-`python X_Main.py`
+`python3 X_Main.py`
